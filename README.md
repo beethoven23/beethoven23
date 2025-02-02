@@ -1,10 +1,6 @@
-👋 Hi, I’m @beethoven23
+Hi, I’m @beethoven23
 
-👀 I’m a lawyer 😱 and interested in Python Coding
+👀 I’m a lawyer 😱 who is fascinated by software development - legal.innovate() !
 
-🌱 I’m currently learning writing simple apps that have to do with the legal profession
+🌱 Written simple apps to bring ✨AI✨ to the legal profession. Coding mainly in Python.
 
-<!---
-beethoven23/beethoven23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
